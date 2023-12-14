@@ -15,6 +15,7 @@
 
   let Sectors = ['Backend', 'Frontend', 'IT', 'QA', 'DevOps']
   let error = false;
+  
   function sendData(event) {
     alert(JSON.stringify(state));
   }
